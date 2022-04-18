@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-alert": "^7.0.3",
+    "react-toast": "^1.0.3",
+    "react-toastify": "^8.1.0"
+  }
+}
